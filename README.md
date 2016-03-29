@@ -9,4 +9,4 @@ Este projeto foi feito para o estudo de Ruby on Rails, é baseado no tutorial do
 * [Haml](http://haml.info/)
 
 O projeto foi publicado no heroku e pode ser visto clicando no link abaixo
-######[Acessar Recipe Box]()
+######[Acessar Recipe Box](https://intense-dusk-78150.herokuapp.com/)
