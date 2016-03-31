@@ -8,5 +8,16 @@ Este projeto foi feito para o estudo de Ruby on Rails, é baseado no tutorial do
 * [PaperClip](https://github.com/thoughtbot/paperclip)
 * [Haml](http://haml.info/)
 
+# Imagens
+
+![](https://github.com/acnjr2010/recipe_box/blob/master/app/assets/images/001.png)
+![](https://github.com/acnjr2010/recipe_box/blob/master/app/assets/images/001.png)
+![](https://github.com/acnjr2010/recipe_box/blob/master/app/assets/images/001.png)
+![](https://github.com/acnjr2010/recipe_box/blob/master/app/assets/images/001.png)
+![](https://github.com/acnjr2010/recipe_box/blob/master/app/assets/images/001.png)
+![](https://github.com/acnjr2010/recipe_box/blob/master/app/assets/images/001.png)
+![](https://github.com/acnjr2010/recipe_box/blob/master/app/assets/images/001.png)
+![](https://github.com/acnjr2010/recipe_box/blob/master/app/assets/images/001.png)
+
 O projeto foi publicado no heroku e pode ser visto clicando no link abaixo
 ######[Acessar Recipe Box](https://intense-dusk-78150.herokuapp.com/)
